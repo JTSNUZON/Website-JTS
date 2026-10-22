@@ -1,0 +1,31 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/de/hermontage",
+      "destination": "/de-hermontage",
+      "permanent": true
+    },
+    {
+      "source": "/contact",
+      "destination": "/aanvragen",
+      "permanent": true
+    },
+    {
+      "source": "/diensten-1",
+      "destination": "/#diensten",
+      "permanent": true
+    },
+    {
+      "source": "/new-dropdown",
+      "destination": "/bedrijven",
+      "permanent": true
+    },
+    {
+      "source": "/new-page",
+      "destination": "/",
+      "permanent": true
+    }
+  ]
+}
